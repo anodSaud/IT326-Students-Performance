@@ -1,27 +1,21 @@
-# Student Academic Performance Prediction & Profiling
+# Student Performance
 
-## Group Members
-- Leen Alfuraih (ID: 446202430)
-- Lana Alrubaiya (ID: 446202797)
-- Alanoud Aldosari (ID: 446202553)
-- Student Name 4 (ID: XXXXXXXXX)
+## project description
 
----
+This project aims to analyze educational data to predict students' academic performance and understand their learning behaviors[cite: 1]. Using various student attributes—such as study hours, attendance, parental support, and GPA—the project applies classification techniques to predict each student's final grade class[cite: 1].
 
-## 1. Problem Statement
-Academic underachievement and student retention are critical challenges in higher education institutions. Identifying at-risk students often happens reactively when grades are finalized, leaving minimal room for timely guidance or academic remediation. The central question this project addresses is: **How can institutions predict student academic performance early in the semester using demographic, socioeconomic, and study-related behavioral indicators?**
+In addition, clustering methods are used to group students with similar habits and characteristics, helping to uncover hidden patterns and study profiles within the data[cite: 1]. By combining these approaches, the project provides meaningful insights that help educators identify struggling students early and support data-driven decisions in education[cite: 1].
 
-## 2. Project Motivation
-Education drives individual growth and long-term societal progress. Providing educators and academic advisors with early, data-informed insights offers significant advantages:
-- **Early Intervention:** Identifies students struggling with foundational concepts or engagement before examinations, allowing for targeted academic support and tutoring.
-- **Strategic Resource Allocation:** Directs advising and mentorship programs specifically to cohorts with higher vulnerability to academic drop-off.
-- **Behavioral Understanding:** Uncovers how daily lifestyle and study factors—such as weekly study hours, attendance records, parental support, and screen time—impact cumulative performance.
+## Motivation
 
-## 3. Project Goals
-This project applies fundamental data mining techniques to extract actionable educational patterns:
+We chose this topic (predicting student performance) because education plays a vital role in students' futures, and early academic support can make a major difference in their success[cite: 1]. By using classification techniques and clustering methods, we can identify students who need help during the semester rather than waiting until final exams[cite: 1]. 
 
-* **Classification Task:**
-  Develop and evaluate supervised classification models (specifically Decision Trees) to predict a student's final grade category (`GradeClass` from 0 to 4). The analysis assesses accuracy across multiple training/testing partitions (90/10, 80/20, 70/30) and split measures (Gini index and Information Gain/Entropy).
+Analyzing daily habits and academic factors helps universities provide targeted tutoring and advising where it is needed most[cite: 1]. This project also shows how data mining techniques can be used practically to solve real-world challenges in education[cite: 1].
 
-* **Clustering Task:**
-  Utilize unsupervised K-Means clustering across numerical lifestyle and study attributes to discover natural student segments. Optimal grouping will be assessed across multiple K values using Elbow analysis and Silhouette coefficients to reveal distinct behavioral profiles without prior label knowledge.
+## Student names
+
+Student Name 1 44XXXXXXXX
+Student Name 2 44XXXXXXXX
+Student Name 3 44XXXXXXXX
+Student Name 4 44XXXXXXXX
+Student Name 5 44XXXXXXXX
