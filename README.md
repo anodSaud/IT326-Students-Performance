@@ -15,7 +15,7 @@ Analyzing daily habits and academic factors helps universities provide targeted 
 ## Student names
 
 - Leen Alforaih 446202430
-- Student Name 2 44XXXXXXXX
+- Lana Alrubaiya 446202797
 - Student Name 3 44XXXXXXXX
 - Student Name 4 44XXXXXXXX
 - Student Name 5 44XXXXXXXX
