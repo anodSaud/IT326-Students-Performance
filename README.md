@@ -2,10 +2,9 @@
 
 ## Group Members
 - Leen Alfuraih (ID: 446202430)
-- Student Name 2 (ID: XXXXXXXXX)
+- Lana Alrubaiya (ID: 446202797)
 - Student Name 3 (ID: XXXXXXXXX)
 - Student Name 4 (ID: XXXXXXXXX)
-- Student Name 5 (ID: XXXXXXXXX)
 
 ---
 
