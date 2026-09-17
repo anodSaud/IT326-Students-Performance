@@ -1,6 +1,6 @@
 # Students Performance
 
-## project description
+## Project description
 
 This project aims to analyze educational data to predict students' academic performance and understand their learning behaviors. Using various student attributes such as study hours, attendance, parental support, and GPA. the project applies classification techniques to predict each student's final grade class.
 
