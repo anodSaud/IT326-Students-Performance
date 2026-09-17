@@ -17,5 +17,4 @@ Analyzing daily habits and academic factors helps schools provide targeted tutor
 - Leen Alforaih 446202430
 - Lana Alrubaiya 446202797
 - Alanoud Aldosari 446202553
-- Student Name 4 44XXXXXXXX
-- Student Name 5 44XXXXXXXX
+
