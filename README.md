@@ -10,7 +10,7 @@ In addition, clustering methods are used to group students with similar habits a
 
 We chose this topic (predicting student performance) because education plays a vital role in students' futures, and early academic support can make a major difference in their success. By using classification techniques and clustering methods, we can identify students who need help during the semester rather than waiting until final exams.
 
-Analyzing daily habits and academic factors helps universities provide targeted tutoring and advising where it is needed most. This project also shows how data mining techniques can be used practically to solve real-world challenges in education.
+Analyzing daily habits and academic factors helps schools provide targeted tutoring and advising where it is needed most. This project also shows how data mining techniques can be used practically to solve real-world challenges in education.
 
 ## Student names
 
